@@ -21,4 +21,6 @@ import java.util.List;
 public interface IHello<T>{
 
     String getParams(List<T> beanObjects);
+
+    String getattri(String name);
 }

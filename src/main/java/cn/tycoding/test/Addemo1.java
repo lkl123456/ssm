@@ -9,4 +9,5 @@ import java.util.List;
  */
 public @interface Addemo1 {
     String  value() default  "hh";
+    String  value2() default  "hh2";
 }
