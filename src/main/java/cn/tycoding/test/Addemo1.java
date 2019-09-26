@@ -8,5 +8,5 @@ import java.util.List;
  * @create 2019/9/26 10:59
  */
 public @interface Addemo1 {
-
+    String  value() default  "hh";
 }
