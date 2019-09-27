@@ -7,10 +7,6 @@ import java.lang.annotation.Target;
 
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface AHello {
-    
-    String value1();
-	String value2();
-	String value3();
-
+public @interface AHello1 {
+    String value();
 }
