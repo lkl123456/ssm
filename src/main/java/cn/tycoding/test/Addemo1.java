@@ -14,5 +14,7 @@ public @interface Addemo1 {
     String  value3() default  "hh345678";
     
     String  value4() default  "hh345678ahskj";
+    
+    String  name1() default  "hh345678ahskasdsaj";
 
 }

@@ -15,4 +15,6 @@ public @interface AHello1 {
     String name2();
     String value4();
     
+    String  name3() default  "124";
+    
 }
