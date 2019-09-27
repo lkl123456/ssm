@@ -11,4 +11,7 @@ public @interface AHello1 {
     String value();
     String value3();
     String value2();
+    
+    String name1();
+    String name2();
 }
