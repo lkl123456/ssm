@@ -5,4 +5,5 @@ public @interface ADemo {
     String  value1() default  "123";
     String  value3() default  "124";
     String  name1() default  "124";
+    String  value4() default  "124";
 }
